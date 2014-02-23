@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Map
+Exec=/usr/bin/ubuntu-html5-app-launcher $@ --www=.
+Icon=qmlscene
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

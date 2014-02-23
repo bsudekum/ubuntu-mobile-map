@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "description of Map",
+    "framework": "ubuntu-sdk-13.10",
+    "hooks": {
+        "Map": {
+            "apparmor": "Map.json",
+            "desktop": "Map.desktop"
+        }
+    },
+    "maintainer": "",
+    "name": "com.ubuntu.developer.username.map",
+    "title": "Map",
+    "version": "0.1"
+}

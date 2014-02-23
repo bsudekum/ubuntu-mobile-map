@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- List of Cordova APIs to activate for this application.
+     By default, all APIs are made available.
+-->
+
+<plugins>
+    <plugin name="File" value="com.cordova.File"/>
+    <plugin name="Notification" value="com.cordova.Notification"/>
+    <plugin name="Accelerometer" value="com.cordova.Accelerometer"/>
+    <plugin name="Events" value="com.cordova.Events"/>
+    <plugin name="Geolocation" value="com.cordova.Geolocation"/>
+    <plugin name="Device" value="com.cordova.Device"/>
+    <plugin name="Console" value="com.cordova.Console"/>
+    <plugin name="Connection" value="com.cordova.Connection"/>
+    <plugin name="Compass" value="com.cordova.Compass"/>
+    <plugin name="Camera" value="com.cordova.Camera"/>
+    <plugin name="Contacts" value="com.cordova.Contacts"/>
+    <plugin name="Media" value="com.cordova.Media"/>
+    <plugin name="Globalization" value="com.cordova.Globalization"/>
+    <plugin name="Capture" value="com.cordova.Capture"/>
+    <plugin name="Splashscreen" value="com.cordova.Splashscreen"/>
+    <plugin name="InAppBrowser" value="com.cordova.InAppBrowser"/>
+
+<!-- Non-standard -->
+    <plugin name="App" value="com.cordova.App"/>
+</plugins>
